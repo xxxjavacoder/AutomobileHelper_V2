@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="165433ad-bab5-4fda-bf1f-66ced5efd368" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/motor_index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_2/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_2/test_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test's/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/test's/tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_1/test_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_1/test_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +41,30 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/test_2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/test_2" />
       <recent name="$PROJECT_DIR$/test_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.test_2.html (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/main/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/index.html" useBuiltInWebServerPort="true">
+    <configuration name="test_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test_1/test_1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="test_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test_1/test_1.html" useBuiltInWebServerPort="true">
+    <configuration name="test_2.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test_2/test_2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/main/test_2/test_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="tests.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test's/tests.html" useBuiltInWebServerPort="true">
@@ -55,10 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.test_2.html (1)" />
         <item itemvalue="JavaScript Debug.test_1.html" />
+        <item itemvalue="JavaScript Debug.test_2.html" />
         <item itemvalue="JavaScript Debug.tests.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -75,17 +93,49 @@
       <workItem from="1583318256807" duration="15546000" />
       <workItem from="1585234101987" duration="455000" />
       <workItem from="1585235909352" duration="221000" />
-      <workItem from="1585245514473" duration="247000" />
+      <workItem from="1585245514473" duration="776000" />
+      <workItem from="1585315687517" duration="223000" />
+      <workItem from="1585575400864" duration="12979000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit without using cmd for git">
+      <created>1585245903935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585245903935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit without using cmd for git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit without using cmd for git" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585245761761">
+    <state x="219" y="52" key="CommitChangelistDialog2" timestamp="1585245903725">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585245761761" />
+    <state x="219" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585245903725" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585657474615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585657474615" />
+    <state x="385" y="196" width="670" height="58" key="search.everywhere.popup" timestamp="1585655969152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="58" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585655969152" />
   </component>
 </project>
