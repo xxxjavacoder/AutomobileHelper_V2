@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="165433ad-bab5-4fda-bf1f-66ced5efd368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/motor_index.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_2/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_2/test_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_author/about_author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/motor_index.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test's/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/test's/tests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/test_1/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_1/test_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_1/test_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_2/test_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_2/test_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/test_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,8 +50,11 @@
       <recent name="$PROJECT_DIR$/test_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test_2.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/main/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap_less/main/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="test_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test_1/test_1.html" useBuiltInWebServerPort="true">
@@ -67,16 +66,13 @@
     <configuration name="test_2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/main/test_2/test_2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tests.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstap_less/test's/tests.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.test_2.html (1)" />
         <item itemvalue="JavaScript Debug.test_1.html" />
         <item itemvalue="JavaScript Debug.test_2.html" />
-        <item itemvalue="JavaScript Debug.tests.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +91,10 @@
       <workItem from="1585235909352" duration="221000" />
       <workItem from="1585245514473" duration="776000" />
       <workItem from="1585315687517" duration="223000" />
-      <workItem from="1585575400864" duration="12979000" />
+      <workItem from="1585575400864" duration="13483000" />
+      <workItem from="1586874171669" duration="394000" />
+      <workItem from="1587110906329" duration="1448000" />
+      <workItem from="1587112847465" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="test commit without using cmd for git">
       <created>1585245903935</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585245903935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add K - coef of answer and add test number 2!!!">
+      <created>1585657537929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585657537929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,13 +128,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit without using cmd for git" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit without using cmd for git" />
+    <MESSAGE value="add K - coef of answer and add test number 2!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="add K - coef of answer and add test number 2!!!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="219" y="52" key="CommitChangelistDialog2" timestamp="1585245903725">
+    <state x="219" y="52" key="CommitChangelistDialog2" timestamp="1585657537797">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="219" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585245903725" />
+    <state x="219" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585657537797" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585657474615">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
